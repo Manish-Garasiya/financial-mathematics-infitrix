@@ -1,0 +1,14 @@
+                At 95%              At 99%
+log VaR         0.01833             0.03218
+%VaR            1.85%               3.27%
+dollar VaR      INR 1849.08         INR 3269.62
+
+all above values are in magnitude form only.
+
+from above table we can see that there is less chance of losing
+more amount of money.
+In histogram we can see data is more concetrared near 0 and 
+VaR_99 lies left of Var_95 because its more negative.
+In the rolling VaR graph we can also see that graph of 99% 
+confidance level always lies below the 95% confidance level.
+

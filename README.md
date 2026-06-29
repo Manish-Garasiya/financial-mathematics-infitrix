@@ -1,1 +1,1 @@
-# financial-mathematics-infitrix
+# financial-mathematics-infinitrix
